@@ -1,0 +1,7 @@
+D:\DomashnaRabota\Dictionary\04\bin\Debug\04.exe.config
+D:\DomashnaRabota\Dictionary\04\bin\Debug\04.exe
+D:\DomashnaRabota\Dictionary\04\bin\Debug\04.pdb
+D:\DomashnaRabota\Dictionary\04\obj\Debug\04.csproj.AssemblyReference.cache
+D:\DomashnaRabota\Dictionary\04\obj\Debug\04.csproj.CoreCompileInputs.cache
+D:\DomashnaRabota\Dictionary\04\obj\Debug\04.exe
+D:\DomashnaRabota\Dictionary\04\obj\Debug\04.pdb
